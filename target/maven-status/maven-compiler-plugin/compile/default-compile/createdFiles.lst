@@ -1,5 +1,8 @@
-com/filteringofflightsets/Segment.class
-com/filteringofflightsets/FilteringOfFlightSets.class
-com/filteringofflightsets/FlightBuilder.class
-com/filteringofflightsets/Flight.class
-com/filteringofflightsets/Filtering.class
+com/gridnine/testing/Flight.class
+com/gridnine/testing/Filter.class
+com/gridnine/testing/FilterByBeforeCurrentTime.class
+com/gridnine/testing/FlightBuilder.class
+com/gridnine/testing/Segment.class
+com/gridnine/testing/Main.class
+com/gridnine/testing/FilterByArrivalBeforeDeparture.class
+com/gridnine/testing/FilterByWaitingOver2Hours.class

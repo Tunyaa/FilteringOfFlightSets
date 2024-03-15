@@ -1,1 +1,8 @@
-/home/sergey/NetBeansProjects/FilteringOfFlightSets/src/main/java/com/filteringofflightsets/FilteringOfFlightSets.java
+/home/sergey/NetBeansProjects/Main/src/main/java/com/gridnine/testing/FilterByArrivalBeforeDeparture.java
+/home/sergey/NetBeansProjects/Main/src/main/java/com/gridnine/testing/Main.java
+/home/sergey/NetBeansProjects/Main/src/main/java/com/gridnine/testing/FilterByWaitingOver2Hours.java
+/home/sergey/NetBeansProjects/Main/src/main/java/com/gridnine/testing/Flight.java
+/home/sergey/NetBeansProjects/Main/src/main/java/com/gridnine/testing/FilterByBeforeCurrentTime.java
+/home/sergey/NetBeansProjects/Main/src/main/java/com/gridnine/testing/Segment.java
+/home/sergey/NetBeansProjects/Main/src/main/java/com/gridnine/testing/Filter.java
+/home/sergey/NetBeansProjects/Main/src/main/java/com/gridnine/testing/FlightBuilder.java
